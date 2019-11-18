@@ -24,6 +24,8 @@ import Fuzzywuzzy_swift
 Partial Ratio tries to match the shorter string to a substring of the longer one
 ```swift
 String.fuzzPartialRatio(str1: "some text here", str2: "I found some text here!") // => 100
+String.fuzzPartialRatio(str1: "wonderful 世", str2: "what a wonderful 世界") // => 100
+String.fuzzPartialRatio(str1: "similar", str2: "somewhresimlrbetweenthisstring") // => 71
 ```
 
 ## Credits
