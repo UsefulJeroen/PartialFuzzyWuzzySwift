@@ -8,7 +8,12 @@ And thanks to Swift String, it support's multi-language.
 But it only supports the Partial Ratio.
 
 ## Installation
-#### TODO
+### Swift Package Manager
+The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler. 
+Use the following url to add this project in Xcode 11:
+```swift
+https://github.com/swing7wing/PartialFuzzyWuzzySwift/
+```
 
 ## Usage
 ```swift
