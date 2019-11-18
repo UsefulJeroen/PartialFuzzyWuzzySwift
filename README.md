@@ -17,7 +17,7 @@ https://github.com/swing7wing/PartialFuzzyWuzzySwift/
 
 ## Usage
 ```swift
-import Fuzzywuzzy_swift
+import PartialFuzzyWuzzyString
 ```
 
 ### Partial Ratio
