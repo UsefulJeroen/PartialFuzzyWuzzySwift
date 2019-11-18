@@ -5,8 +5,6 @@
 //  Created by Jeroen Besse on 18/11/2019.
 //
 
-import UIKit
-
 public extension String {
 
     /// try's to match the shorter string with the most common substring of the longer one
