@@ -5,7 +5,7 @@ https://github.com/JakeBayer/FuzzySharp
 
 It has no external dependencies. 
 And thanks to Swift String, it support's multi-language.
-But it only supports the Partial Ratio.
+But it only supports the Partial Ratio, and it's pretty slow.
 
 ## Installation
 ### Swift Package Manager
